@@ -51,7 +51,7 @@ Kişiler, kişisel verilerinin nasıl işlendiği hakkında bilgi talep edebilir
 
 Gizlilik veya veri işleme uygulamalarımız hakkında sorularınız için aşağıdaki iletişim adresinden bizimle iletişime geçebilirsiniz:
 
-**E-posta:** [adsoyadyokbizde@gmail.com]
+**E-posta:** adsoyadyokbizde@gmail.com
 
 ## 9. Politika Değişiklikleri
 
